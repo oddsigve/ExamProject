@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_121"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/collection-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/commons-cli-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/commons-csv-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jackson-core-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jackson-databind-2.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jena-arq-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jena-base-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jena-cmds-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jena-core-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jena-iri-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jena-rdfconnection-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jena-shaded-guava-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jena-tdb-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/jsonld-java-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/libthrift-0.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OddSigve/workspace/Rdf/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
