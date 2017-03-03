@@ -81,7 +81,6 @@ public class Main {
         		+ " { "
         		+ " ?person a dbo:Person . "
         		+ " ?person dbo:birthDate ?birthDate . Filter(str(?birthDate) = '1984-09-15') . "
-        		+ " ?person dbo:abstract ?abstract . Filter(lang(?abstract) = 'en') . "	
 				+ " } ";
         // Argumenter
         if (args != null && args.length == 1) {
